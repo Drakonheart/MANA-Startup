@@ -23,16 +23,26 @@ Mana's intuitive interface and comprehensive tracking capabilities make it a pow
 
 Whether you're aiming to lose weight, build muscle, or enhance your overall fitness, Mana empowers you to take control of your workouts while making the entire experience enjoyable and rewarding.
 
-## Installation
+## Release Date April 2024
 
-To get started with Mana, simply [download the app](link_to_app_store) from the App Store or Google Play Store.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to Mana's development, please fork the repository, make your changes, and submit a pull request.
+This app is planned to be released this upcoming month of April 2024 as this project is still under development  
 
 ## License
 
-This project is licensed under the [License Name](link_to_license_file).
+This project is licensed A.F.p.
+
+
+## Images
+
+These images are directly from Android Studio 
+
+![frame5](https://github.com/Drakonheart/MANA-Startup/assets/146472190/b99c139c-bdab-4650-8164-675d6beb3171)
+![frame3](https://github.com/Drakonheart/MANA-Startup/assets/146472190/c965eff6-40aa-4bea-bd46-4f8a5228d8dc)
+![frame2](https://github.com/Drakonheart/MANA-Startup/assets/146472190/b88e5047-3246-43e2-9ff2-62d8f183fce2)
+![frame4](https://github.com/Drakonheart/MANA-Startup/assets/146472190/4e9e0dc5-1edc-469a-93c2-4a740542c8cd)
+![frame1](https://github.com/Drakonheart/MANA-Startup/assets/146472190/7553c176-621b-4946-8855-d4234d088811)
+
+
+
 
 
